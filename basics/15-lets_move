@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name [[:upper]] -exec -t ~/tmp/u
+mv -f [A-Z]* /tmp/u
