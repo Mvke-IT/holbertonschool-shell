@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R vincent:staff /tmp/h/my_dir
+sudo chown vincent:staff ./_hello
